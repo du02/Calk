@@ -1,10 +1,9 @@
 ![Logo_Calculator-removebg-preview 1](https://user-images.githubusercontent.com/40076527/105560092-a3358700-5cf1-11eb-845d-a9fc493c557d.png)
 
 # Calk
-
 Desenvolvido em (expo), usando React Native o Calk tem a finalidade de calculos básicos.
 
-## O que foi aprendido/visto: ()
+## O que foi aprendido/visto: (What has been learned/seen:)
 
 - [x] useState;
 - [x] setState;
@@ -27,4 +26,4 @@ Desenvolvido em (expo), usando React Native o Calk tem a finalidade de calculos 
 ## Diário de Bordo. (Logbook.) 
 
 Dia 22/02:
-> Criação e desenvolvimento.
+> Criação e desenvolvimento. (Desenvolvido na aula do curso de React Native)
